@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-05 12:00">
+  <shop>
+    <name>Честный Экзамен — сервис онлайн-прокторинга</name>
+    <company>Честный Экзамен</company>
+    <url>https://exam.ru/</url>
+    <email>sale@exam.ru</email>
+    <picture>https://static.tildacdn.com/tild3263-6465-4765-b030-333130633232/photo.svg</picture>
+    <description>Сервис онлайн-прокторинга для бизнеса и университетов. Программное обеспечение «Честный экзамен» автоматизирует проведение и контроль онлайн-экзаменов с применением технологий искусственного интеллекта.</description>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Прокторинг и контроль на экзаменах</category>
+    </categories>
+    <sets>
+      <set id="proctoring-examru">
+        <name>Сервис онлайн-прокторинга для бизнеса и университетов</name>
+        <url>https://exam.ru/</url>
+      </set>
+    </sets>
+    <offers>
+      <offer id="examru-proctoring">
+        <name>Сервис онлайн-прокторинга для бизнеса и университетов</name>
+        <url>https://exam.ru/</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <set-ids>proctoring-examru</set-ids>
+        <picture>https://static.tildacdn.com/tild3263-6465-4765-b030-333130633232/photo.svg</picture>
+        <description>Программное обеспечение «Честный экзамен» предназначено для автоматизации процессов проведения и контроля онлайн-экзаменов с применением технологий искусственного интеллекта.</description>
+        <param name="Цена">От 100 000 за лицензию</param>
+        <param name="Формат обучения">Онлайн</param>
+        <param name="Уровень подготовки">Для организаций</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
